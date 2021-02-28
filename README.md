@@ -8,4 +8,4 @@
 [![Watchers](https://img.shields.io/github/watchers/discord-html/Discord.html-Demo)](https://github.com/discord-html/Discord.html-Demo/watchers)
 [![Discord](https://img.shields.io/discord/815198926206271518?logo=discord)](https://discord.gg/W5QserHkTV)
 
-Discord.html is an open-source (ish) HTML Discord bot framework. This is a demo with no commands - the actual version is currently in development.
+Discord.html is an open-source (ish) HTML Discord bot framework. This is a demo with no commands - the actual version is currently in development. And not everything is avaliable yet.
