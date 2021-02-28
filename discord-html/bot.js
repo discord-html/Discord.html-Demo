@@ -31,7 +31,7 @@ class Bot extends HTMLElement {
           if (msg.author.id === atob(hidden_token[0])) return;
           if (!msg.content.startsWith(prefix)) return;
           const backup_sts = () => {
-          //if (msg.content.startsWith(`${prefix}status`)) {
+            //if (msg.content.startsWith(`${prefix}status`)) {
             var new_status = msg.content.split(`${prefix}status`)
             new_status = new_status[1].replace(' ', '')
             gateway.send(JSON.stringify({
