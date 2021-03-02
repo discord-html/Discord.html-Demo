@@ -13,7 +13,7 @@ To get started, simply go to the [Discord dev portal](https://discord.com/develo
 1. Sign in and click "New Application". It doesn't matter what you put as the name of this.
 2. Select "Bot" in the sidebar and click "Add Bot", and then "Yes, do it!" when prompted.
 3. Enter a name you want to be your bot's name. Then click "Copy" under "Token" to copy your token. Paste this into the "Token" field of Discord.html. Stay on Discord.html.
-4. Select "OAuth" in the sidebar, enter "[https://discord.com/app](https://discord.com/app)" as a URI. Then, scroll down and select the "bot" scope. Click "Copy" next to the generated URL, paste it in a new tab and follow the instructions to add your bot.
+4. Select "OAuth" in the sidebar, then enter "[https://discord.com/app](https://discord.com/app)" as a URI. Then, scroll down and select the "bot" scope. Click "Copy" next to the generated URL, paste it in a new tab and follow the instructions to add your bot.
 5. Under "Prefix", enter the prefix you'd like to be entered to use a command.
 6. Under "Status", enter a status for your bot.
 7. Hit "Start!" to start your bot.
